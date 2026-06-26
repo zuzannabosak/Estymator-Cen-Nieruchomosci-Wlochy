@@ -1,0 +1,16 @@
+
+.venv/
+venv/
+env/
+
+
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+
+history.db
+data_real_assets.csv
+links_to_pages.txt
+offers_urls.txt
+models/*.pkl

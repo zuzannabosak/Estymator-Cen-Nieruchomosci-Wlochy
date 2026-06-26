@@ -1,0 +1,8 @@
+flet
+pandas
+numpy
+scikit-learn
+joblib
+beautifulsoup4
+requests
+pytest
